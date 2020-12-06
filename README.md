@@ -9,9 +9,15 @@ The following analysis shows the outcomes of comparable campaigns based on their
 
 ### Analysis of Outcomes Based on Launch Date
 
+Based on a population of kickstarter campaigns, we identified all the **theater** campaigns that were successful, had failed, or were canceled. For this sample of kickstarters, we focused on their launch dates to identify trends. The Chart below shows the theater campaign outcomes based on their launch date: 
+
+![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/74662680/101284997-f179df80-37b0-11eb-9300-e6a6ee985498.png)
+
 ### Analysis of Outcomes Based on Goals
 
 ### Challenges and Difficulties Encountered
+
+
 
 ## Results
 

@@ -1,7 +1,24 @@
-# An Analysis of Kickstarter Campaigns
-Performing analysis on Kickstarter data to uncover trends
----
-<img src="https://user-images.githubusercontent.com/74662680/101259054-8bc81d80-36f4-11eb-8f38-74704dbec3a8.png" width="90%"></img> 
----
-## Recommendations
-* For the best outcome of your kickstarter being successful, it's best to launch in late spring (i.e. May)
+# **Campaign Outcomes Analysis**
+
+## Overview of Project
+
+Louise's play *Fever* came close to its fundraising goal during a short period of time. Louise has asked us to show her how other campaigns have done compared to hers. 
+The following analysis shows the outcomes of comparable campaigns based on their launch dates and their funding goals.
+
+## Analysis and Challenges
+
+### Analysis of Outcomes Based on Launch Date
+
+### Analysis of Outcomes Based on Goals
+
+### Challenges and Difficulties Encountered
+
+## Results
+
+- What are two conclusions you can draw about the Outcomes based on Launch Date?
+
+- What can you conclude about the Outcomes based on Goals?
+
+- What are some limitations of this dataset?
+
+- What are some other possible tables and/or graphs that we could create?
